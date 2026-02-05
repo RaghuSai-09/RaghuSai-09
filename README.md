@@ -61,21 +61,19 @@ I am a passionate developer currently working from home, exploring the depths of
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaghuSai-09&show_icons=true&theme=tokyonight" height="180" alt="RaghuSai-09's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuSai-09&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghuSai-09&theme=tokyonight" alt="RaghuSai-09's Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RaghuSai-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="RaghuSai-09's Trophies" />
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghuSai-09&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="RaghuSai-09's Activity Graph" />
 </div>
 
 ---
 
 ## 🌐 Connect with Me
 
-<a href="https://instagram.com/your-handle">
+<a href="https://instagram.com/raghusai_09">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
